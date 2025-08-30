@@ -10,4 +10,4 @@
     end
 end]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/its-LALOL/LALOL-Hub/main/Backdoor-Scanner/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SSkullls/Backdoor/refs/heads/main/gui"))()
